@@ -42,6 +42,9 @@ pip install googledatastore
   <version>1.3.0</version>
 </dependency>
 ```
+- Java (Gradle):
+
+compile group: 'com.google.cloud', name: 'google-cloud-datastore', version: '1.3.0'
 
 ## Documentation
 
